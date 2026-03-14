@@ -1,10 +1,10 @@
-Population,370000,day,Births today
-Population,174000,day,Deaths today
-Environment,15000000000,year,Trees cut down this year
-Resources,10950,daydown,Days until oil will run out
-Resources,45625,daydown,Days until oil will run out
-Media,34000000,day,TikToks posted today
-Media,2600000,day,YouTube videos posted today
-Media,500000000,day,X posts posted today
-Media,1000000000,day,Whatsapp messages sent today
-Miscellanous,1657100000000,daysince,Days since the Earth was formed
+population,370000,day,Births today
+population,174000,day,Deaths today
+environment,15000000000,year,Trees cut down this year
+resources,10950,daydown,Days until oil will run out
+resources,45625,daydown,Days until oil will run out
+media,34000000,day,TikToks posted today
+media,2600000,day,YouTube videos posted today
+media,500000000,day,X posts posted today
+media,1000000000,day,Whatsapp messages sent today
+miscellanous,1657100000000,daysince,Days since the Earth was formed
